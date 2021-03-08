@@ -4,7 +4,7 @@ Dataset for the paper **A Longitudinal Study of Removed Apps in iOS App Store**(
 
 ## Introduction
 
-This is the dataset for the paper "A Longitudinal Study of Removed Apps in iOS App Store" by Fuqi Lin, Haoyu Wang, Liu Wang, and Xuanzhe Liu. This dataset covers the removed apps of iOS App Store for 1.5 year (1st January, 2019 to 30th April, 2020). The dataset includes app objective information such as app name and release date, app subjective information including app ratings and app reviews, and app popularity information including app ranking and ASO keywords. For more information about the dataset, please refer to the paper.
+This is the dataset for the paper "A Longitudinal Study of Removed Apps in iOS App Store" by Fuqi Lin, Haoyu Wang, Liu Wang, and Xuanzhe Liu. This dataset covers the removed apps of iOS App Store for 1.5 year (1st January, 2019 to 30th April, 2020). The dataset includes app objective information such as app name and release date, app subjective information including app ratings and app reviews, and app popularity information including app ranking and ASO keywords. [Data file](https://github.com/LuckyFQ/iOS-Removed-Apps-Dataset/tree/main/data) presents the detailed formats and examples of each part of the dataset. Anyone who wishes to access the whole dataset, please visit <https://zenodo.org/record/4588266#.YEXdIy21FB1>. For more information about the dataset, please refer to the paper or email linfuqi@pku.edu.cn.
 
 ## Publication
 
