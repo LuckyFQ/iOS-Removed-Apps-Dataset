@@ -10,9 +10,11 @@ This is the dataset for the paper "A Longitudinal Study of Removed Apps in iOS A
 
 If you use the dataset, please cite the paper:
 
+```
 @inproceedings{lin202iOS,
   title={A Longitudinal Study of Removed Apps in iOS App Store},
   author={Lin, Fuqi and Wang, Haoyu and Wang, Liu and Liu, Xuanzhe}
   booktitle={Proceedings of the Web Conference 2021 (WWW '21), April 19--23, 2021, Ljubljana, Slovenia},
   year={2021}
 }
+```
