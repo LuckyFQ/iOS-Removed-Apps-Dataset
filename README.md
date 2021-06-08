@@ -11,10 +11,15 @@ This is the dataset for the paper "A Longitudinal Study of Removed Apps in iOS A
 If you use the dataset, please cite the paper:
 
 ```
-@inproceedings{lin202iOS,
-  title={A Longitudinal Study of Removed Apps in iOS App Store},
-  author={Lin, Fuqi and Wang, Haoyu and Wang, Liu and Liu, Xuanzhe}
-  booktitle={Proceedings of the Web Conference 2021 (WWW '21), April 19--23, 2021, Ljubljana, Slovenia},
-  year={2021}
+@inproceedings{DBLP:conf/www/LinWWL21,
+  author    = {Fuqi Lin and Haoyu Wang and Liu Wang and Xuanzhe Liu},
+  title     = {A Longitudinal Study of Removed Apps in iOS App Store},
+  booktitle = {{WWW} '21: The Web Conference 2021, Virtual Event / Ljubljana, Slovenia,
+               April 19-23, 2021},
+  pages     = {1435--1446},
+  publisher = {{ACM} / {IW3C2}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3442381.3449990},
+  doi       = {10.1145/3442381.3449990},
 }
 ```
